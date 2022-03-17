@@ -1,13 +1,6 @@
 
-<h1 align="center">Hi 👋 MAT1610-15</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hola 👋 MAT1610-15</h1>
 
-- 🔭 I’m currently on **Mathematical Engineering at PUC**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Acá voy a subir tanto las ayudantias en la carpeta ```Ayudantias``` como material extra que lo podrán encontrar en una carpeta llamada ```Material Extra``` y la idea es que cuando estudien subir con las soluciones respectivas.
 
