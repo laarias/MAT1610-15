@@ -2,6 +2,8 @@
 <h1 align="center">Hola 👋 MAT1610-15</h1>
 
 
+Acá está el link de la ayudantía extra https://drive.google.com/file/d/1huL-1kUXNfsQ-uKlDGNlcVO1eHfkCVcI/view?usp=sharing
+
 Acá están las soluciones de las ayudantias???????
 
 
